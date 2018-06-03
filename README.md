@@ -1,6 +1,6 @@
 🚀 VALIDATION UPDATE 🚀
 
-I have verified snapshots from the following 5 BPs + 1 Independant to match:
+I have verified snapshots from the following 7 BPs + 1 Independant to match:
 1. EOS Authority
 2. EOS Rio
 3. eosDAC 
